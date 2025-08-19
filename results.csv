@@ -1,0 +1,4 @@
+file,severity,aadhaar_hits,pan_hits,email_count,password_phrase,emails_sample
+/mnt/data/sensitive-data-leak-detector/data/sample_clean.txt,None,0,0,0,False,
+/mnt/data/sensitive-data-leak-detector/data/sample_leak_1.txt,Critical,1,1,1,True,rakesh.kumar@example.com
+/mnt/data/sensitive-data-leak-detector/data/sample_leak_2.txt,Medium,0,0,3,True,"hr@company.org, security.team@company.org, admin@example.net"

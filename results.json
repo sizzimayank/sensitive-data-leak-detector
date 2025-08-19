@@ -1,0 +1,29 @@
+[
+  {
+    "file":"\/mnt\/data\/sensitive-data-leak-detector\/data\/sample_clean.txt",
+    "severity":"None",
+    "aadhaar_hits":0,
+    "pan_hits":0,
+    "email_count":0,
+    "password_phrase":false,
+    "emails_sample":""
+  },
+  {
+    "file":"\/mnt\/data\/sensitive-data-leak-detector\/data\/sample_leak_1.txt",
+    "severity":"Critical",
+    "aadhaar_hits":1,
+    "pan_hits":1,
+    "email_count":1,
+    "password_phrase":true,
+    "emails_sample":"rakesh.kumar@example.com"
+  },
+  {
+    "file":"\/mnt\/data\/sensitive-data-leak-detector\/data\/sample_leak_2.txt",
+    "severity":"Medium",
+    "aadhaar_hits":0,
+    "pan_hits":0,
+    "email_count":3,
+    "password_phrase":true,
+    "emails_sample":"hr@company.org, security.team@company.org, admin@example.net"
+  }
+]

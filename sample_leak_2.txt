@@ -1,0 +1,3 @@
+Support mailbox dump:
+Contact: hr@company.org, security.team@company.org, admin@example.net
+Reset link enclosed. New password will be shared by admin.

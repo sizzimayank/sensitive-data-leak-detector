@@ -1,0 +1,6 @@
+Employee onboarding data:
+Name: Rakesh Kumar
+Email: rakesh.kumar@example.com
+PAN: ABCDE1234F
+Aadhaar: 1234 5678 9012
+Temporary password: Pass@123
